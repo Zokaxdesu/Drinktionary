@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drinktionary</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://api.fontshare.com/v2/css?f[]=sentient@400,700,201,301,200,501,500,300,2,1,401,701&display=swap" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=ranade@700,300,2,701,401,101,100,400,1,500,501,301&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <h1>Drinktionary</h1>
+    </header>
+
+    <div class="table-container">
+        <input type="text" id="search" placeholder="Search" oninput="filterTable()" class="search">
+        <table id="drinkTable">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th>A</th>
+                    <th>B</th>
+                    <th>D</th>
+                    <th>F</th>
+                    <th>K</th>
+                    <th>Rocks</th>
+                    <th>Aged</th>
+                    <th>Blend</th>
+                    <th>Double</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table data will be dynamically added here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
