@@ -40,7 +40,7 @@ images/Marsblast.png,Marsblast,0,6,1,4,2,-,-,images/Blend.png,-
 images/Mercuryblast.png,Mercuryblast,1,1,3,3,2,images/Rocks.png,-,images/Blend.png,✓
 images/Moonblast.png,Moonblast,6,0,1,1,2,images/Rocks.png,-,images/Blend.png,✓
 images/Nebula.png,Nebula,5,2,2,0,3,images/Rocks.png,-,images/Blend.png,-
-/images/Piano_Man.png,Piano Man,2,3,5,5,3,images/Rocks.png,-,-,-
+images/Piano_Man.png,Piano Man,2,3,5,5,3,images/Rocks.png,-,-,-
 images/Piano_Woman.png,Piano Woman,5,5,2,3,3,-,images/Aged.png,-,-
 images/Pile_driver.png,Pile driver,0,3,0,3,4,-,-,-,✓
 images/Rad_Roach.png,Rad Roach,2,0,1,6,10,-,-,-,-
