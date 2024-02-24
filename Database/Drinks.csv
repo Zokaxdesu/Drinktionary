@@ -48,7 +48,7 @@ images/Royal_Crown.png,Royal Crown,4,2,1,6,6,-,images/Aged.png,images/Blend.png,
 images/Royal_Flush.png,Royal Flush,2,1,1,2,6,images/Rocks.png,-,-,-
 images/Scarlet_Bliss.png,Scarlet Bliss,2,5,0,7,4,-,images/Aged.png,images/Blend.png,-
 images/SixSixSix.png,Six Six Six,6,0,0,6,6,-,images/Aged.png,-,-
-images/Slimeade_Delight.png,Slimeade Delight,1,3,2,6,Opt. 08,-,,images/Blend.png,-
+images/Slimeade_Delight.png,Slimeade Delight,1,3,2,6,Opt. 08,-,-,images/Blend.png,-
 images/Sp3ce_Dr3ft.png,Sp3ce Dr3ft,3,3,3,3,Opt. 08,-,images/Aged.png,images/Blend.png,-
 images/SparkleStar.png,Sparkle Star,2,0,1,0,Opt. 17,-,images/Aged.png,-,-
 images/Spiced_Rum.png,Spiced Rum,1,1,1,4,Opt. 13,-,images/Aged.png,-,-
@@ -58,7 +58,7 @@ images/Sunset_Stride.png,Sunset Stride,3,0,0,2,2,images/Rocks.png,-,-,✓
 images/SunshineCloud.png,Sunshine Cloud,2,2,0,0,Opt. 16,images/Rocks.png,-,images/Blend.png,-
 images/Suplex.png,Suplex,0,4,0,3,3,images/Rocks.png,-,-,✓
 images/Tazbraisier_Beer.png,Tazbraisier Beer,1,3,1,2,3,-,-,-,✓
-images/The_Dealer.png,The Dealer,3,1,4,5,Opt. 07,images/Rocks.png,images/Aged.png,-,-
+images/The_Dealer.png,The Dealer (O Karm Cure),3,1,4,5,Opt. 07,images/Rocks.png,images/Aged.png,-,-
 images/Thunderbolt.png,Thunderbolt,0,4,0,1,5,-,-,-,✓
 images/Twighlight_Sparkle.png,Twighlight Sparkle,2,0,1,0,Opt. 17,images/Rocks.png,-,-,✓
 images/Vicious_Hook.png,Vicious Hook,0,1,0,2,5,-,images/Aged.png,-,✓
