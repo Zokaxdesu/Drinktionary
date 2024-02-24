@@ -32,6 +32,6 @@ Contributions are welcome! Whether you want to enhance the UI, or fix bugs, feel
 
 - Shoutout to [Fontshare](https://www.fontshare.com/) for providing the beautiful fonts used in this project.
 - Inspired by the passion for mixology and the joy of discovering unique drinks.
-- Jmelt for creating the Midnightbar in VR chat and also create the custom drinks           [their discord](https://discord.gg/yWDbKRxfAZ)
-- Floris Apon for creating pixelart of the drinks that I used in this build if you want     [their discord](https://discord.gg/JUu2Xf2QZD)
+- Jmelt for creating the Midnightbar in VR chat and also create the custom drinks                     [their discord](https://discord.gg/yWDbKRxfAZ)
+- Floris Apon for providing a remake high quality pixel art of the original drinks                    [their discord](https://discord.gg/JUu2Xf2QZD)
 
