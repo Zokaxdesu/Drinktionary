@@ -29,28 +29,6 @@ table {
   padding: 30px;
 }
 
-th:nth-child(3) {
-  color: #e52b2b;
-}
-
-th:nth-child(3) {
-  color: #c0f032;
-}
-
-th:nth-child(4) {
-  color: #567df0;
-}
-
-
-th:nth-child(5) {
-  color: #A1C771;
-}
-
-th:nth-child(6) {
-  color: #C5E4E4;
-}
-
-
 th {
   font-family: 'Ranade', sans-serif;
   font-weight: 500;
@@ -65,8 +43,29 @@ td {
   font-weight: 800;
 }
 
+th:nth-child(3),
+td:nth-child(3),
+th:nth-child(4),
+td:nth-child(4),
+th:nth-child(5),
+td:nth-child(5),
+th:nth-child(6),
+td:nth-child(6),
+th:nth-child(7),
+td:nth-child(7) {
+  color: #6ba1d3;
+  font-weight: bold;
+}
 
+th:nth-child(3),
+td:nth-child(3) {
+  color: #e06666;
+}
 
+th:nth-child(4),
+td:nth-child(4) {
+  color: #ffd966;
+}
 
 img {
   width: 60px;
