@@ -62,6 +62,14 @@ td:nth-child(3) {
   color: #e06666;
 }
 
+th:nth-child(5) {
+  color: #A1C771;
+}
+
+th:nth-child(6) {
+  color: #C5E4E4;
+}
+
 th:nth-child(4),
 td:nth-child(4) {
   color: #ffd966;
