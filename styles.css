@@ -43,7 +43,7 @@ td {
   font-weight: 800;
 }
 
-th:nth-child(3),
+/* th:nth-child(3),
 td:nth-child(3),
 th:nth-child(4),
 td:nth-child(4),
@@ -65,6 +65,22 @@ td:nth-child(3) {
 th:nth-child(4),
 td:nth-child(4) {
   color: #ffd966;
+} */
+
+th:nth-child(2){
+  color: #dc5757;
+}
+
+th:nth-child(3){
+  color: #c6f12c;
+}
+
+th:nth-child(4){
+  color: #486ae4;
+}
+
+th:nth-child(5){
+  color: #ffffff;
 }
 
 img {
