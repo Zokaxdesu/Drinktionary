@@ -63,6 +63,11 @@ td:nth-child(6) {
   color: #119100;
 }
 
+th:nth-child(7),
+td:nth-child(7) {
+  color: #60e0f1;
+}
+
 img {
   width: 60px;
   height: auto;
