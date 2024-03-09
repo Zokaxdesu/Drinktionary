@@ -86,6 +86,7 @@ input {
   margin-bottom: 10px;
   border-radius: 5px;
   outline: none;
+  /* Remove the default blue outline */
 }
 
 .search {
@@ -115,48 +116,4 @@ input {
       margin-left: 0;
       width: 100%;
   }
-}
-
-/* Add this new style for the banner slideshow container */
-#banner-slideshow-container {
-  height: 200px;
-  overflow: hidden;
-  margin-bottom: 100px;
-  transition: opacity 0.1s;
-}
-
-#banner-slideshow-container:hover {
-  opacity: 0.8;
-}
-
-#banner-slideshow-container:active {
-  opacity: 0;
-}
-
-/* Add this new style for the banner slideshow */
-.banner-slide {
-  width: auto;
-  max-width: 100%;
-  height: 100%;
-  display: block;
-  margin: 0 auto;
-  border-radius: 20px;
-}
-
-/* Navigation bar styles */
-.navbar-container {
-  background-color: #444141;
-  text-align: center;
-}
-
-.navbar-container img {
-  width: 30px;
-  height: auto;
-  margin: 10px;
-  filter: grayscale(100%) brightness(100%);
-  transition: filter 0.3s;
-}
-
-.navbar-container img:hover {
-  filter: none;
 }
