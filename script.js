@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Fetch the CSV file for drinks
-    fetch('Database/Drinks.csv')
+    fetch('database/Drinks.csv')
         .then(response => response.text())
         .then(csv => {
             const rows = csv.split('\n').map(row => row.split(','));
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
         .catch(error => console.error('Error fetching Drinks.csv file:', error));
 
     // Fetch the CSV file for banners
-    fetch('Database/Banners.csv')
+    fetch('database/Banners.csv')
         .then(response => response.text())
         .then(csv => {
             const bannerPaths = csv.split('\n').map(path => path.trim());
@@ -52,13 +52,13 @@ document.addEventListener('DOMContentLoaded', function () {
         .catch(error => console.error('Error fetching Banners.csv file:', error));
 
     // Fetch the CSV file for icons
-    fetch('Database/Icons.csv')
+    fetch('database/icons.csv')
         .then(response => response.text())
         .then(csv => {
             const iconPaths = csv.split('\n').map(path => path.trim());
             createNavbarIcons(iconPaths);
         })
-        .catch(error => console.error('Error fetching Icons.csv file:', error));
+        .catch(error => console.error('Error fetching icons.csv file:', error));
 });
 
 function createBannerSlideshow(bannerPaths) {
@@ -91,6 +91,24 @@ function createBannerSlideshow(bannerPaths) {
     showBanner(); // Start the banner slideshow
 }
 
+function createNavbarIcons(iconPaths) {
+    const navbar = document.getElementById('navbar');
+
+    iconPaths.forEach(iconPath => {
+        const [path, href] = iconPath.split(',');
+
+        const icon = document.createElement('img');
+        icon.src = path.trim();
+        icon.alt = 'Navbar Icon';
+        icon.className = 'navbar-icon';
+        icon.onclick = function () {
+            window.open(href.trim(), '_blank');
+        };
+
+        navbar.appendChild(icon);
+    });
+}
+
 function extractBannerPath(bannerPath) {
     return bannerPath.split(',')[0].trim(); // Extract the banner path before the comma
 }
@@ -98,20 +116,6 @@ function extractBannerPath(bannerPath) {
 function extractBannerLink(bannerPath) {
     const linkInfo = bannerPath.split(',')[1]; // Extract the link info after the comma
     return linkInfo ? linkInfo.trim() : '#'; // Use the link if present, otherwise use '#'
-}
-
-function createNavbarIcons(iconPaths) {
-    const navbar = document.getElementById('navbar');
-
-    iconPaths.forEach(iconPath => {
-        const [path, href] = iconPath.split(',');
-        const iconImg = document.createElement('img');
-        iconImg.src = path.trim();
-        iconImg.alt = 'Navbar Icon';
-        iconImg.className = 'navbar-icon';
-        iconImg.addEventListener('click', () => window.open(href.trim(), '_blank')); // Open in a new tab on click
-        navbar.appendChild(iconImg);
-    });
 }
 
 function filterTable() {
