@@ -15,6 +15,28 @@ header {
   margin-bottom: 20px;
 }
 
+/* Add these new styles for the navbar */
+#navbar {
+  background-color: #1D1D1D;
+  display: flex; /* Display icons in a horizontal line */
+  align-items: center; /* Center icons vertically in the navbar */
+  justify-content: center; /* Center icons horizontally in the navbar */
+  padding: 5px; /* Adjust padding as needed */
+}
+
+.navbar-icon {
+  width: 30px; /* Set the desired width for the icons */
+  height: auto;
+  margin: 0 10px; /* Add some spacing between icons */
+  filter: brightness(0) invert(1); /* Add a white color overlay */
+  transition: filter 0.3s ease; /* Add transition on filter property */
+}
+
+.navbar-icon:hover {
+  filter: brightness(1) invert(0); /* Remove the white color overlay on hover */
+  cursor: pointer; /* Add a pointer cursor on hover */
+}
+
 table {
   width: 80%;
   margin: 0 auto;
@@ -109,11 +131,37 @@ input {
 /* Responsive adjustments */
 @media only screen and (max-width: 768px) {
   table {
-      width: 90%;
+    width: 90%;
   }
 
   .search {
-      margin-left: 0;
-      width: 100%;
+    margin-left: 0;
+    width: 100%;
   }
+}
+
+/* Add this new style for the banner slideshow container */
+#banner-slideshow-container {
+  height: 200px; /* Fixed height for the banner container */
+  overflow: hidden; /* Hide overflow to prevent pushing the table down */
+  margin-bottom: 100px;
+  transition: opacity 0.1s;
+}
+
+#banner-slideshow-container:hover {
+  opacity: 0.8;
+}
+
+#banner-slideshow-container:active {
+  opacity: 0.;
+}
+
+/* Add this new style for the banner slideshow */
+.banner-slide {
+  width: auto;
+  max-width: 100%; /* Ensure banners do not exceed the container width */
+  height: 100%; /* Maintain aspect ratio */
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
 }
