@@ -2,6 +2,7 @@ images/Bad_Touch.png,Bad Touch,0,2,2,2,4,images/Rocks.png,-,-,✓
 images/Bad_Touch.png,1. Bad Touch,0,2,2,2,4,images/Rocks.png,-,-,✓
 images/B-T3ND3R.png,2. B-T3ND3R,0,2,0,0,Opt. 18,images/Rocks.png,-,-,✓
 images/Beer.png,3. Beer,1,2,1,2,4,-,-,-,✓
+images/Black-Label.png,3. Black Label,0,4,0,2,4,-,images/Aged.png,-,✓
 images/Bleeding_Jane.png,4. Bleeding Jane (Cure),0,1,3,3,0,-,-,images/Blend.png,✓
 images/BloomLight.png,5. Bloom Light,4,0,1,2,3,images/Rocks.png,images/Aged.png,-,✓
 images/Blue_Fairy.png,6. Blue Fairy,4,0,0,1,Opt. 15,-,images/Aged.png,-,-
@@ -17,6 +18,7 @@ images/Dirty_Deed.png,15. Dirty Deed,0,0,1,0,19,images/Rocks.png,images/Aged.png
 images/Doctor's_Desire.png,16. Doctor's Desire,4,4,7,4,Opt. 01,-,images/Aged.png,-,-
 images/EightyEight_88.png,17. Eighty Eight 88,0,0,8,8,Opt. 04,-,images/Aged.png,images/Blend.png,-
 images/Emerald_Flask.png,18. Emerald Flask (Cure),0,3,1,2,0,-,images/Aged.png,-,✓
+images/Evoker-of-Memories.png,18.Evoker of Memories - Squirt Gun,3,0,5,0,9,images/Rocks.png,images/Aged.png,images/Blend.png,✓
 images/Fairy_Fountain.png,19. Fairy Fountain,3,1,3,2,Opt. 11,-,-,-,✓
 images/Fallen_Angel.png,20. Fallen Angel,2,0,3,0,2,images/Rocks.png,images/Aged.png,-,✓
 images/FlamingMoai.png,21. Flaming Moai,1,1,2,3,5,-,-,-,-
