@@ -16,29 +16,29 @@ header {
 }
 
 table {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   border-collapse: collapse;
-  background-color: rgba(51, 51, 51, 0.3);
+  background-color: rgba(51, 51, 51, 0.5);
   color: #ffffff;
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(15px);
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
   border: none;
-  padding: 30px;
 }
 
 th {
   font-family: 'Ranade', sans-serif;
   font-weight: 500;
-  color: #ffffff;
 }
 
 td {
-  text-align: center;
-  padding: 10px;
-  border: 1px solid #555555;
   font-family: 'Sentient', serif;
   font-weight: 800;
 }
@@ -67,6 +67,7 @@ th:nth-child(7),
 td:nth-child(7) {
   color: #60e0f1;
 }
+
 
 img {
   width: 60px;

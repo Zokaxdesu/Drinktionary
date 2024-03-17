@@ -1,75 +1,75 @@
 images/Bad_Touch.png,Bad Touch,0,2,2,2,4,images/Rocks.png,-,-,✓
-images/Bad_Touch.png,1. Bad Touch,0,2,2,2,4,images/Rocks.png,-,-,✓
-images/B-T3ND3R.png,2. B-T3ND3R,0,2,0,0,Opt. 18,images/Rocks.png,-,-,✓
-images/Beer.png,3. Beer,1,2,1,2,4,-,-,-,✓
-images/Black-Label.png,3. Black Label,0,4,0,2,4,-,images/Aged.png,-,✓
-images/Bleeding_Jane.png,4. Bleeding Jane (Cure),0,1,3,3,0,-,-,images/Blend.png,✓
-images/BloomLight.png,5. Bloom Light,4,0,1,2,3,images/Rocks.png,images/Aged.png,-,✓
-images/Blue_Fairy.png,6. Blue Fairy,4,0,0,1,Opt. 15,-,images/Aged.png,-,-
-images/Brandtini.png,7. Brandtini,6,0,3,0,1,-,images/Aged.png,-,✓
-images/Brass_Scale.png,8. Brass Scale,2,0,2,3,6,images/Rocks.png,images/Aged.png,-,-
-images/Brokers's_Tea.png,9. Brokers's Tea,5,4,0,0,Opt. 11,-,images/Aged.png,-,-
-images/Cherry_Blossom.png,10. Cherry Blossom,3,0,2,0,Opt. 15,-,-,-,-
-images/Clouded_Crimson.png,11. Clouded Crimson,1,2,0,4,2,-,images/Aged.png,images/Blend.png,-
-images/Cobalt_Velvet.png,12. Cobalt Velvet,2,0,0,3,5,images/Rocks.png,-,-,✓
-images/CreviceSpike.png,13. Crevice Spike (O_Karmo cure),0,0,2,4,Opt. 14,-,-,images/Blend.png,-
-images/Dark_Anubis.png,14. Dark Anubis,1,0,1,0,18,images/Rocks.png,-,images/Blend.png,-
-images/Dirty_Deed.png,15. Dirty Deed,0,0,1,0,19,images/Rocks.png,images/Aged.png,-,-
-images/Doctor's_Desire.png,16. Doctor's Desire,4,4,7,4,Opt. 01,-,images/Aged.png,-,-
-images/EightyEight_88.png,17. Eighty Eight 88,0,0,8,8,Opt. 04,-,images/Aged.png,images/Blend.png,-
-images/Emerald_Flask.png,18. Emerald Flask (Cure),0,3,1,2,0,-,images/Aged.png,-,✓
-images/Evoker-of-Memories.png,18.Evoker of Memories - Squirt Gun,3,0,5,0,9,images/Rocks.png,images/Aged.png,images/Blend.png,✓
-images/Fairy_Fountain.png,19. Fairy Fountain,3,1,3,2,Opt. 11,-,-,-,✓
-images/Fallen_Angel.png,20. Fallen Angel,2,0,3,0,2,images/Rocks.png,images/Aged.png,-,✓
-images/FlamingMoai.png,21. Flaming Moai,1,1,2,3,5,-,-,-,-
-images/Floradora.png,22. Floradora,4,2,2,2,1,images/Rocks.png,-,-,✓
-images/Fluffy_Dream.png,23. Fluffy Dream,3,0,3,0,Opt.14,-,images/Aged.png,-,-
-images/Fox_Miracle.png,24. Fox Miracle,2,1,4,3,Opt.10,images/Rocks.png,images/Aged.png,images/Blend.png,✓
-images/Fringe_Weaver.png,25. Fringe Weaver,1,0,0,0,9,-,images/Aged.png,-,✓
-images/Frothy_Water.png,26. Frothy Water,1,1,1,1,0,-,images/Aged.png,-,x5
-images/Galaxy_Beer.png,27. Galaxy Beer,2,0,4,5,Opt. 09,-,images/Aged.png,-,-
-images/GrizzlyTemple.png,28. Grizzly Temple,3,3,3,0,1,-,-,images/Blend.png,✓
-images/GutPunch.png,29. Gut Punch,0,5,0,1,Opt. 14,-,images/Aged.png,-,-
-images/Hades_Hellish_Hangover.png,30. Hades Hellish Hangover,6,0,6,0,Opt. 08,-,images/Aged.png,images/Blend.png,-
-images/Helheims_Mead.png,31. Helheim's Mead,0,8,3,0,9,-,images/Aged.png,-,-
-images/Hawaiian_Skyline.png,32. Hawaiian Skyline,0,9,2,3,4,images/Rocks.png,-,-,-
-images/Heal_Syrup.png,33. Heal Syrup (Cure),0,4,5,1,0,-,-,-,✓
-images/High_Seas.png,34. High Seas,1,0,0,2,Opt. 17,-,images/Aged.png,-,✓
-images/Highwire_Fizz.png,35. Highwire Fizz,0,2,5,4,Opt. 09,-,-,-,-
-images/Icy_Tempest.png,36. Icy Tempest,1,6,2,0,5,images/Rocks.png,images/Aged.png,images/Blend.png,-
-images/Jaws_of_Fate.png,37. Jaws of Fate,9,0,1,1,9,-,images/Aged.png,-,-
-images/Kali_Impact.png,38. Kali Impact,1,1,0,0,Opt. 18,-,images/Aged.png,-,✓
-images/Kikai.png,39. Kikai,2,5,1,2,Opt. 10,-,images/Aged.png,images/Blend.png,✓
-images/Low_Tide.png,40. Low Tide,1,1,4,4,Opt. 10,images/Rocks.png,-,images/Blend.png,✓
-images/Marsblast.png,41. Marsblast,0,6,1,4,2,-,-,images/Blend.png,-
-images/Mercuryblast.png,42. Mercuryblast,1,1,3,3,2,images/Rocks.png,-,images/Blend.png,✓
-images/Moonblast.png,43. Moonblast,6,0,1,1,2,images/Rocks.png,-,images/Blend.png,✓
-images/Naturs_Redux.png,44. Natur's Redux,3,1,3,3,Opt. 10,images/Rocks.png,images/Aged.png,images/Blend.png,-
-images/Nebula.png,45. Nebula,5,2,2,0,3,images/Rocks.png,-,images/Blend.png,-
-images/Nightcore_Lotus.png,46. Nightcore Lotus,6,1,4,3,6,images/Rocks.png,images/Aged.png,-,-
-images/Piano_Man.png,47. Piano Man,2,3,5,5,3,images/Rocks.png,-,-,-
-images/Piano_Woman.png,48. Piano Woman,5,5,2,3,3,-,images/Aged.png,-,-
-images/Pile_driver.png,49. Pile driver,0,3,0,3,4,-,-,-,✓
-images/Rad_Roach.png,50. Rad Roach,2,0,1,6,10,-,-,-,-
-images/Royal_Crown.png,51. Royal Crown,4,2,1,6,6,-,images/Aged.png,images/Blend.png,-
-images/Royal_Flush.png,52. Royal Flush,2,1,1,2,6,images/Rocks.png,-,-,-
-images/Saber_blast.png,53. Saber Blast,2,2,4,0,Opt. 12,images/Rocks.png,-,-,-
-images/Scarlet_Bliss.png,54. Scarlet Bliss,2,5,0,7,4,-,images/Aged.png,images/Blend.png,-
-images/SixSixSix.png,55. Six Six Six,6,0,0,6,6,-,images/Aged.png,-,-
-images/Slimeade_Delight.png,56. Slimeade Delight,1,3,2,6,Opt. 08,-,-,images/Blend.png,-
-images/Sp3ce_Dr3ft.png,57. Sp3ce Dr3ft,3,3,3,3,Opt. 08,-,images/Aged.png,images/Blend.png,-
-images/SparkleStar.png,58. Sparkle Star,2,0,1,0,Opt. 17,-,images/Aged.png,-,-
-images/Spiced_Rum.png,59. Spiced Rum,1,1,1,4,Opt. 13,-,images/Aged.png,-,-
-images/StrawBurii_Milk.png,60. StrawBurii Milk,1,4,1,0,Opt. 14,images/Rocks.png,-,-,-
-images/SugarRush.png,61. Sugar Rush,2,0,1,0,Opt. 17,-,-,-,-
-images/Sunset_Stride.png,62. Sunset Stride,3,0,0,2,2,images/Rocks.png,-,-,✓
-images/SunshineCloud.png,63. Sunshine Cloud,2,2,0,0,Opt. 16,images/Rocks.png,-,images/Blend.png,-
-images/Suplex.png,64. Suplex,0,4,0,3,3,images/Rocks.png,-,-,✓
-images/Tazbraisier_Beer.png,65. Tazbraisier Beer,1,3,1,2,3,-,-,-,✓
-images/The_Dealer.png,66. The Dealer (O Karm Cure),3,1,4,5,Opt. 07,images/Rocks.png,images/Aged.png,-,-
-images/Thunderbolt.png,67. Thunderbolt,0,4,0,1,5,-,-,-,✓
-images/Twighlight_Sparkle.png,68. Twighlight Sparkle,2,0,1,0,Opt. 17,images/Rocks.png,-,-,✓
-images/Vicious_Hook.png,69. Vicious Hook,0,1,0,2,5,-,images/Aged.png,-,✓
-images/Will_o_Wisp.png,70. Will o Wisp,0,0,6,1,9,-,-,images/Blend.png,-
-images/Witch's_Brew.png,71. Witch's Brew,2,2,2,0,14,images/Rocks.png,-,-,-
-images/Zen_Star.png,72. Zen Star,4,4,4,4,4,images/Rocks.png,-,-,-
+images/Bad_Touch.png,Bad Touch,0,2,2,2,4,images/Rocks.png,-,-,✓,1
+images/B-T3ND3R.png,B-T3ND3R,0,2,0,0,Opt. 18,images/Rocks.png,-,-,✓,2
+images/Beer.png,Beer,1,2,1,2,4,-,-,-,✓,3
+images/Black-Label.png,Black Label,0,4,0,2,4,-,images/Aged.png,-,✓,4
+images/Bleeding_Jane.png,Bleeding Jane (Cure),0,1,3,3,0,-,-,images/Blend.png,✓,5
+images/BloomLight.png,Bloom Light,4,0,1,2,3,images/Rocks.png,images/Aged.png,-,✓,6
+images/Blue_Fairy.png,Blue Fairy,4,0,0,1,Opt. 15,-,images/Aged.png,-,-,7
+images/Brandtini.png,Brandtini,6,0,3,0,1,-,images/Aged.png,-,✓,8
+images/Brass_Scale.png,Brass Scale,2,0,2,3,6,images/Rocks.png,images/Aged.png,-,-,9
+images/Brokers's_Tea.png,Brokers's Tea,5,4,0,0,Opt. 11,-,images/Aged.png,-,-,10
+images/Cherry_Blossom.png,Cherry Blossom,3,0,2,0,Opt. 15,-,-,-,-,11
+images/Clouded_Crimson.png,Clouded Crimson,1,2,0,4,2,-,images/Aged.png,images/Blend.png,-,12
+images/Cobalt_Velvet.png,Cobalt Velvet,2,0,0,3,5,images/Rocks.png,-,-,✓,13
+images/CreviceSpike.png,Crevice Spike (O_Karmo cure),0,0,2,4,Opt. 14,-,-,images/Blend.png,-,14
+images/Dark_Anubis.png,Dark Anubis,1,0,1,0,18,images/Rocks.png,-,images/Blend.png,-,15
+images/Dirty_Deed.png,Dirty Deed,0,0,1,0,19,images/Rocks.png,images/Aged.png,-,-,16
+images/Doctor's_Desire.png,Doctor's Desire,4,4,7,4,Opt. 01,-,images/Aged.png,-,-,17
+images/EightyEight_88.png,Eighty Eight 88,0,0,8,8,Opt. 04,-,images/Aged.png,images/Blend.png,-,18
+images/Emerald_Flask.png,Emerald Flask (Cure),0,3,1,2,0,-,images/Aged.png,-,✓,19
+images/Evoker-of-Memories.png,Evoker of Memories - Squirt Gun,3,0,5,0,9,images/Rocks.png,images/Aged.png,images/Blend.png,✓,20
+images/Fairy_Fountain.png,Fairy Fountain,3,1,3,2,Opt. 11,-,-,-,✓,21
+images/Fallen_Angel.png,Fallen Angel,2,0,3,0,2,images/Rocks.png,images/Aged.png,-,✓,22
+images/FlamingMoai.png,Flaming Moai,1,1,2,3,5,-,-,-,-,23
+images/Floradora.png,Floradora,4,2,2,2,1,images/Rocks.png,-,-,✓,24
+images/Fluffy_Dream.png,Fluffy Dream,3,0,3,0,Opt.14,-,images/Aged.png,-,-,25
+images/Fox_Miracle.png,Fox Miracle,2,1,4,3,Opt.10,images/Rocks.png,images/Aged.png,images/Blend.png,✓,26
+images/Fringe_Weaver.png,Fringe Weaver,1,0,0,0,9,-,images/Aged.png,-,✓,27
+images/Frothy_Water.png,Frothy Water,1,1,1,1,0,-,images/Aged.png,-,x5,28
+images/Galaxy_Beer.png,Galaxy Beer,2,0,4,5,Opt. 09,-,images/Aged.png,-,-,29
+images/GrizzlyTemple.png,Grizzly Temple,3,3,3,0,1,-,-,images/Blend.png,✓,30
+images/GutPunch.png,Gut Punch,0,5,0,1,Opt. 14,-,images/Aged.png,-,-,31
+images/Hades_Hellish_Hangover.png,Hades Hellish Hangover,6,0,6,0,Opt. 08,-,images/Aged.png,images/Blend.png,-,32
+images/Helheims_Mead.png,Helheim's Mead,0,8,3,0,9,-,images/Aged.png,-,-,33
+images/Hawaiian_Skyline.png,Hawaiian Skyline,0,9,2,3,4,images/Rocks.png,-,-,-,34
+images/Heal_Syrup.png,Heal Syrup (Cure),0,4,5,1,0,-,-,-,✓,35
+images/High_Seas.png,High Seas,1,0,0,2,Opt. 17,-,images/Aged.png,-,✓,36
+images/Highwire_Fizz.png,Highwire Fizz,0,2,5,4,Opt. 09,-,-,-,-,37
+images/Icy_Tempest.png,Icy Tempest,1,6,2,0,5,images/Rocks.png,images/Aged.png,images/Blend.png,-,38
+images/Jaws_of_Fate.png,Jaws of Fate,9,0,1,1,9,-,images/Aged.png,-,-,39
+images/Kali_Impact.png,Kali Impact,1,1,0,0,Opt. 18,-,images/Aged.png,-,✓,40
+images/Kikai.png,Kikai,2,5,1,2,Opt. 10,-,images/Aged.png,images/Blend.png,✓,41
+images/Low_Tide.png,Low Tide,1,1,4,4,Opt. 10,images/Rocks.png,-,images/Blend.png,✓,42
+images/Marsblast.png,Marsblast,0,6,1,4,2,-,-,images/Blend.png,-,43
+images/Mercuryblast.png,Mercuryblast,1,1,3,3,2,images/Rocks.png,-,images/Blend.png,✓,44
+images/Moonblast.png,Moonblast,6,0,1,1,2,images/Rocks.png,-,images/Blend.png,✓,45
+images/Naturs_Redux.png,Natur's Redux,3,1,3,3,Opt. 10,images/Rocks.png,images/Aged.png,images/Blend.png,-,46
+images/Nebula.png,Nebula,5,2,2,0,3,images/Rocks.png,-,images/Blend.png,-,47
+images/Nightcore_Lotus.png,Nightcore Lotus,6,1,4,3,6,images/Rocks.png,images/Aged.png,-,-,48
+images/Piano_Man.png,Piano Man,2,3,5,5,3,images/Rocks.png,-,-,-,49
+images/Piano_Woman.png,Piano Woman,5,5,2,3,3,-,images/Aged.png,-,-,50
+images/Pile_driver.png,Pile driver,0,3,0,3,4,-,-,-,✓,51
+images/Rad_Roach.png,Rad Roach,2,0,1,6,10,-,-,-,-,52
+images/Royal_Crown.png,Royal Crown,4,2,1,6,6,-,images/Aged.png,images/Blend.png,-,53
+images/Royal_Flush.png,Royal Flush,2,1,1,2,6,images/Rocks.png,-,-,-,54
+images/Saber_blast.png,Saber Blast,2,2,4,0,Opt. 12,images/Rocks.png,-,-,-,55
+images/Scarlet_Bliss.png,Scarlet Bliss,2,5,0,7,4,-,images/Aged.png,images/Blend.png,-,56
+images/SixSixSix.png,Six Six Six,6,0,0,6,6,-,images/Aged.png,-,-,57
+images/Slimeade_Delight.png,Slimeade Delight,1,3,2,6,Opt. 08,-,-,images/Blend.png,-,58
+images/Sp3ce_Dr3ft.png,Sp3ce Dr3ft,3,3,3,3,Opt. 08,-,images/Aged.png,images/Blend.png,-,59
+images/SparkleStar.png,Sparkle Star,2,0,1,0,Opt. 17,-,images/Aged.png,-,-,60
+images/Spiced_Rum.png,Spiced Rum,1,1,1,4,Opt. 13,-,images/Aged.png,-,-,61
+images/StrawBurii_Milk.png,StrawBurii Milk,1,4,1,0,Opt. 14,images/Rocks.png,-,-,-,62
+images/SugarRush.png,Sugar Rush,2,0,1,0,Opt. 17,-,-,-,-,63
+images/Sunset_Stride.png,Sunset Stride,3,0,0,2,2,images/Rocks.png,-,-,✓,64
+images/SunshineCloud.png,Sunshine Cloud,2,2,0,0,Opt. 16,images/Rocks.png,-,images/Blend.png,-,65
+images/Suplex.png,Suplex,0,4,0,3,3,images/Rocks.png,-,-,✓,66
+images/Tazbraisier_Beer.png,Tazbraisier Beer,1,3,1,2,3,-,-,-,✓,67
+images/The_Dealer.png,The Dealer (O Karm Cure),3,1,4,5,Opt. 07,images/Rocks.png,images/Aged.png,-,-,68
+images/Thunderbolt.png,Thunderbolt,0,4,0,1,5,-,-,-,✓,69
+images/Twighlight_Sparkle.png,Twighlight Sparkle,2,0,1,0,Opt. 17,images/Rocks.png,-,-,✓,70
+images/Vicious_Hook.png,Vicious Hook,0,1,0,2,5,-,images/Aged.png,-,✓,71
+images/Will_o_Wisp.png,Will o Wisp,0,0,6,1,9,-,-,images/Blend.png,-,72
+images/Witch's_Brew.png,Witch's Brew,2,2,2,0,14,images/Rocks.png,-,-,-,73
+images/Zen_Star.png,Zen Star,4,4,4,4,4,images/Rocks.png,-,-,-,74
