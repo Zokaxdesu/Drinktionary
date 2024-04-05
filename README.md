@@ -26,7 +26,7 @@ Welcome to **Drinktionary**, your go-to resource for exploring a diverse world o
 
 ## Contribution
 
-Contributions are welcome! Whether you want to enhance the UI, or fix bugs, feel free to submit pull requests
+CheetahPixie for roasting my dumb code and fixing it completly
 
 ## Acknowledgments
 
