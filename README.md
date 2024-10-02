@@ -1,3 +1,5 @@
+# I HAVE STOPPED UPDATING THE DRINKTIONARY DUE TO LIFE ISSUES. USE THE SOURCE CODE TO MAKE A NEW ONE USING GITHUB PAGES
+
 # Drinktionary
 
 Welcome to **Drinktionary**, your go-to resource for exploring a diverse world of beverages. This project aims to provide an interactive and visually pleasing experience for discovering, filtering, and learning about various drinks.
